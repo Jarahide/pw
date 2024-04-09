@@ -1,0 +1,10 @@
+.container {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+.container img {
+    margin-right: 30px;
+    vertical-align: middle;
+}
